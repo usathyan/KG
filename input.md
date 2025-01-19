@@ -1,0 +1,1 @@
+(Person)[Alice] --(works_at)--> (Organization)[OpenAI] --(located_in)--> (Location)[San Francisco]

@@ -1,0 +1,10 @@
+@prefix ns1: <http://example.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:OpenAI a ns1:Organization ;
+    rdfs:label "OpenAI" ;
+    ns1:founded_by ns1:SamAltman .
+
+ns1:SamAltman a ns1:Person ;
+    rdfs:label "Sam Altman" .
+

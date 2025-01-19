@@ -1,0 +1,5 @@
+Entity1,Type1,Relationship,Entity2,Type2
+Alice,Person,works_at,OpenAI,Organization
+OpenAI,Organization,located_in,San Francisco,Location
+Bob,Person,manages,Alice,Person
+OpenAI,Organization,founded_by,Sam Altman,Person

@@ -1,0 +1,14 @@
+@prefix ns1: <http://example.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns1:Alice a ns1:Person ;
+    rdfs:label "Alice" ;
+    ns1:works_at ns1:OpenAI .
+
+ns1:OpenAI a ns1:Organization ;
+    rdfs:label "OpenAI" ;
+    ns1:located_in ns1:SanFrancisco .
+
+ns1:SanFrancisco a ns1:Location ;
+    rdfs:label "San Francisco" .
+

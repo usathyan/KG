@@ -1,0 +1,1836 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema1: <http://schema.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+wd:Document a schema1:CreativeWork ;
+    rdfs:label "Source Document"@en ;
+    schema1:hasPart wd:CompetencyQuestion_1,
+        wd:CompetencyQuestion_2,
+        wd:CompetencyQuestion_3 ;
+    schema1:mentions wd:0-397-00033-2,
+        wd:111,
+        wd:114,
+        wd:12,
+        wd:120,
+        wd:137,
+        wd:146,
+        wd:1915,
+        wd:1923_1927_,
+        wd:1932,
+        wd:1933_1934_1935_,
+        wd:1947,
+        wd:1948,
+        wd:1952,
+        wd:1958,
+        wd:1964,
+        wd:1966,
+        wd:1967,
+        wd:1969,
+        wd:1971,
+        wd:1972,
+        wd:1_B_,
+        wd:1_E_1,
+        wd:1_E_2,
+        wd:1_E_5,
+        wd:1_E_6,
+        wd:1_E_7,
+        wd:1_E_8,
+        wd:1_E_9,
+        wd:1_F_,
+        wd:1_F_1,
+        wd:1_F_2,
+        wd:1_F_3,
+        wd:1_F_4,
+        wd:1_F_6,
+        wd:2001,
+        wd:20_,
+        wd:24022,
+        wd:28-29,
+        wd:3,
+        wd:30_days,
+        wd:34,
+        wd:37,
+        wd:3_and_4,
+        wd:50,
+        wd:54,
+        wd:596-1887,
+        wd:60,
+        wd:60_days,
+        wd:62,
+        wd:64,
+        wd:64-6221541,
+        wd:69,
+        wd:75,
+        wd:801,
+        wd:809,
+        wd:88,
+        wd:90_days,
+        wd:A_CHRISTMAS_CAROL,
+        wd:A_Happy_New_Year,
+        wd:A_quarter,
+        wd:A_quarter_past,
+        wd:Abels,
+        wd:Abrahams,
+        wd:Abundance,
+        wd:Ali_Baba,
+        wd:Archive_Foundation,
+        wd:Arthur_Rackham_Release,
+        wd:BREACH_OF_WARRANTY_OR_BREACH_OF_CONTRACT_EXCEPT,
+        wd:Baleful,
+        wd:Bedlam,
+        wd:Belinda,
+        wd:Belinda_Cratchit,
+        wd:Bell,
+        wd:Belle,
+        wd:Bob,
+        wd:Bob_Cratchit,
+        wd:Bob_Cratchit_s,
+        wd:Boiled,
+        wd:CHRISTMAS_DAY,
+        wd:COLOUR,
+        wd:Cains,
+        wd:Camden,
+        wd:Caroline,
+        wd:Catch,
+        wd:Change,
+        wd:Charles_Dickens,
+        wd:Christian,
+        wd:Christmas,
+        wd:Christmas_Day,
+        wd:Christmas_Eve,
+        wd:Christmas_Eve_16,
+        wd:Christmas_Past,
+        wd:Christmas_morning,
+        wd:Clear,
+        wd:Cold,
+        wd:Cold_Boiled,
+        wd:Cold_Roast,
+        wd:Contents,
+        wd:Cornhill,
+        wd:Cratchit,
+        wd:Cratchits,
+        wd:DIRECT,
+        wd:Damascus,
+        wd:Day,
+        wd:Death,
+        wd:December,
+        wd:December_1843,
+        wd:December_24_2007,
+        wd:Dick,
+        wd:Dick_Chirrup,
+        wd:Dick_Wilkins,
+        wd:Dilber,
+        wd:Dine,
+        wd:Ding,
+        wd:Doom,
+        wd:Dutch,
+        wd:EIN,
+        wd:EXPRESS,
+        wd:Ebenezer,
+        wd:Ebenezer_Scrooge,
+        wd:English,
+        wd:Evil_Spirit_s,
+        wd:FIRST,
+        wd:FIVE,
+        wd:FOUR,
+        wd:Fan,
+        wd:Fezziwig,
+        wd:Fezziwigs,
+        wd:First,
+        wd:Five,
+        wd:Five_minutes,
+        wd:Foundation,
+        wd:Founder,
+        wd:Four,
+        wd:Fowls,
+        wd:Fred,
+        wd:French,
+        wd:Friday,
+        wd:Friend,
+        wd:Future,
+        wd:GREAT_BRITAIN,
+        wd:General_Information,
+        wd:Genii,
+        wd:Ghost,
+        wd:Giant,
+        wd:Great_Britain,
+        wd:Grocers,
+        wd:Groom,
+        wd:Gutenberg,
+        wd:Gutenberg_Literary_Archive_Foundation,
+        wd:Halloo,
+        wd:Hamlet,
+        wd:Hilli-ho,
+        wd:Hope,
+        wd:Humbug,
+        wd:Hurrah,
+        wd:IRS,
+        wd:Idol,
+        wd:Ignorance,
+        wd:J_B_LIPPINCOTT,
+        wd:J_B_Lippincott_Company,
+        wd:Jack_Robinson,
+        wd:Jacob,
+        wd:Jacob_Marley,
+        wd:Jacob_Marley_s,
+        wd:Janet_Blenkinship,
+        wd:Joe,
+        wd:Joe_Miller,
+        wd:LIABILITY,
+        wd:LIMITED_WARRANTY,
+        wd:Laden,
+        wd:Laocoon,
+        wd:Last_night,
+        wd:License,
+        wd:List_of_Coloured_Illustrations,
+        wd:Literary_Archive_Foundation,
+        wd:London,
+        wd:MARLEY,
+        wd:Mansion_House,
+        wd:Marley,
+        wd:Martha,
+        wd:Martha_Cratchit,
+        wd:May,
+        wd:Merry,
+        wd:Merry_Christmas,
+        wd:Michael_S_Hart,
+        wd:Miss,
+        wd:Mississippi,
+        wd:NEW_YORK,
+        wd:Nay,
+        wd:Nephew,
+        wd:New_Year,
+        wd:New_York,
+        wd:Norfolk_Biffins,
+        wd:North_1500_West,
+        wd:ONE,
+        wd:Old_Marley_s,
+        wd:One,
+        wd:One_half-hour,
+        wd:Orson,
+        wd:PHILADELPHIA,
+        wd:PLEASANT,
+        wd:POSSIBILITY,
+        wd:PUNITIVE,
+        wd:Parks,
+        wd:Parliament,
+        wd:Parrot,
+        wd:Peter,
+        wd:Peter_Cratchit,
+        wd:Phantom,
+        wd:Pharaoh,
+        wd:Philadelphia,
+        wd:Plain_Vanilla_ASCII,
+        wd:Plenty,
+        wd:Pooh,
+        wd:Porch,
+        wd:Project,
+        wd:Project_Gutenberg,
+        wd:Prophet,
+        wd:Roast,
+        wd:Robert,
+        wd:Robin_Crusoe,
+        wd:Roger_de_Coverley,
+        wd:Salt_Lake_City,
+        wd:Saturdays,
+        wd:Scratch,
+        wd:Scriptures,
+        wd:Scro,
+        wd:Scrooge,
+        wd:Scrooge_Scrooge,
+        wd:Section_1,
+        wd:Section_2,
+        wd:Section_3,
+        wd:Section_4,
+        wd:Section_5,
+        wd:Servant,
+        wd:Seven_years,
+        wd:Shadow,
+        wd:Sheba,
+        wd:Spanish,
+        wd:Spectre,
+        wd:Spirit,
+        wd:Spirits,
+        wd:St_Dunstan,
+        wd:St_Paul_s_Churchyard,
+        wd:Star,
+        wd:Stave_Five_147,
+        wd:Sultan,
+        wd:Sunday,
+        wd:Suzanne_Shell,
+        wd:THREE,
+        wd:TIM_S,
+        wd:TWO,
+        wd:Thankee,
+        wd:The_Founder_of_the_Feast,
+        wd:The_Project_Gutenberg_Literary_Archive_Foundation,
+        wd:The_quarter,
+        wd:Three,
+        wd:Three_days,
+        wd:Tim,
+        wd:Tim_Cratchit,
+        wd:Time,
+        wd:Tiny,
+        wd:Tiny_Tim,
+        wd:Topper,
+        wd:Total-Abstinence_Principle,
+        wd:Treadmill,
+        wd:Truth,
+        wd:Twelfth-Night,
+        wd:Twelve,
+        wd:Two,
+        wd:U_S_,
+        wd:Uncle,
+        wd:Uncle_Scrooge,
+        wd:Union,
+        wd:United_States,
+        wd:Us,
+        wd:Valentine,
+        wd:Want,
+        wd:Ward,
+        wd:Whitechapel,
+        wd:Yo_ho,
+        wd:_1_to_5_000,
+        wd:_Bring,
+        wd:_Christmas,
+        wd:_Christmas_Day,
+        wd:_Yes_,
+        wd:a_United_States,
+        wd:a_dozen,
+        wd:a_long_night,
+        wd:a_minute,
+        wd:a_thousand,
+        wd:afternoon,
+        wd:all_day,
+        wd:an_hour,
+        wd:an_t,
+        wd:another_night,
+        wd:another_penny,
+        wd:bell,
+        wd:bright_day,
+        wd:calico_an_t,
+        wd:cold,
+        wd:day,
+        wd:days,
+        wd:dozen,
+        wd:eBooks,
+        wd:eight,
+        wd:eighteen_minutes_and_a_half,
+        wd:eleven,
+        wd:evening,
+        wd:every_seventh_day,
+        wd:every_year,
+        wd:fifteen,
+        wd:fifteen_shillings,
+        wd:fifty,
+        wd:fifty_pounds,
+        wd:first,
+        wd:five,
+        wd:five_minutes,
+        wd:forty_years,
+        wd:four,
+        wd:full_five_minutes,
+        wd:geese,
+        wd:gruel,
+        wd:half,
+        wd:half_a_minute,
+        wd:half_an_hour,
+        wd:half_of_half,
+        wd:hour,
+        wd:hundreds,
+        wd:hundreds_of_thousands,
+        wd:kith,
+        wd:last_night,
+        wd:late_last_Christmas_Day,
+        wd:later_years,
+        wd:less_than_five_minutes,
+        wd:live_than_millions,
+        wd:many_hours,
+        wd:many_years,
+        wd:merry_gentleman,
+        wd:midnight,
+        wd:months,
+        wd:morning,
+        wd:morrow,
+        wd:my_days,
+        wd:next_morning,
+        wd:niece,
+        wd:night,
+        wd:nine,
+        wd:no_days,
+        wd:noon,
+        wd:one,
+        wd:one_dear_night,
+        wd:one_night,
+        wd:only_a_night,
+        wd:only_one,
+        wd:past_two,
+        wd:second,
+        wd:seven,
+        wd:seven_Christmas_Eves_ago,
+        wd:seven_to_eight,
+        wd:seven_years,
+        wd:seven_years_ago,
+        wd:seventy_years_of_age,
+        wd:six,
+        wd:six_to_seven,
+        wd:so_many_years,
+        wd:some_days,
+        wd:some_fifty,
+        wd:spring,
+        wd:summer,
+        wd:ten,
+        wd:that_day,
+        wd:the_Christmas_holidays,
+        wd:the_City_of_London,
+        wd:the_Genius_of_the_Weather,
+        wd:the_Internal_Revenue_Service,
+        wd:the_Invisible_World,
+        wd:the_Poor_Law,
+        wd:the_Project_Gutenberg,
+        wd:the_Project_Gutenberg_License,
+        wd:the_Project_Gutenberg_Literary_Archive_Foundation,
+        wd:the_Seventh_Day,
+        wd:the_United_States,
+        wd:the_Unseen_Eyes,
+        wd:the_afternoon,
+        wd:the_awful_sea,
+        wd:the_clearest_summer,
+        wd:the_day,
+        wd:the_day_before,
+        wd:the_four_quarters,
+        wd:the_hour,
+        wd:the_hour_of,
+        wd:the_hour_of_night,
+        wd:the_hours_and_quarters,
+        wd:the_next_night,
+        wd:the_night,
+        wd:the_previous_Monday,
+        wd:the_rolling_year,
+        wd:the_same_hour,
+        wd:the_season,
+        wd:the_spring,
+        wd:the_very_day,
+        wd:the_whole_day,
+        wd:the_whole_quarter,
+        wd:the_wild_year_through,
+        wd:the_year,
+        wd:these_later_years,
+        wd:these_seven_years,
+        wd:third,
+        wd:this_afternoon,
+        wd:this_day,
+        wd:this_morning,
+        wd:this_very_afternoon,
+        wd:this_very_night,
+        wd:thou,
+        wd:thousands,
+        wd:three,
+        wd:three-quarters,
+        wd:three-quarters_past_eleven,
+        wd:three_feet,
+        wd:transcription,
+        wd:twelfth,
+        wd:twelve,
+        wd:twenty,
+        wd:twenty-fifth,
+        wd:two,
+        wd:two_inches,
+        wd:two_minutes,
+        wd:week,
+        wd:weekly,
+        wd:winter,
+        wd:winter_day,
+        wd:year,
+        wd:years,
+        wd:years_ago,
+        wd:yesterday .
+
+wdt:occupation a schema1:Property ;
+    rdfs:label "occupation" ;
+    rdfs:comment "The occupation of a person" .
+
+wd:0-397-00033-2 a schema1:QUANTITY ;
+    rdfs:label "0-397-00033-2"@en .
+
+wd:111 a schema1:CARDINAL ;
+    rdfs:label "111"@en .
+
+wd:114 a schema1:CARDINAL ;
+    rdfs:label "114"@en .
+
+wd:12 a schema1:CARDINAL ;
+    rdfs:label "12"@en .
+
+wd:120 a schema1:CARDINAL ;
+    rdfs:label "120"@en .
+
+wd:137 a schema1:CARDINAL ;
+    rdfs:label "137"@en .
+
+wd:146 a schema1:CARDINAL ;
+    rdfs:label "146"@en .
+
+wd:1915 a schema1:DATE ;
+    rdfs:label "1915"@en .
+
+wd:1923_1927_ a schema1:DATE ;
+    rdfs:label "1923, 1927,"@en .
+
+wd:1932 a schema1:DATE ;
+    rdfs:label "1932"@en .
+
+wd:1933_1934_1935_ a schema1:DATE ;
+    rdfs:label "1933, 1934, 1935,"@en .
+
+wd:1947 a schema1:DATE ;
+    rdfs:label "1947"@en .
+
+wd:1948 a schema1:DATE ;
+    rdfs:label "1948"@en .
+
+wd:1952 a schema1:DATE ;
+    rdfs:label "1952"@en .
+
+wd:1958 a schema1:DATE ;
+    rdfs:label "1958"@en .
+
+wd:1964 a schema1:DATE ;
+    rdfs:label "1964"@en .
+
+wd:1966 a schema1:DATE ;
+    rdfs:label "1966"@en .
+
+wd:1967 a schema1:DATE ;
+    rdfs:label "1967"@en .
+
+wd:1969 a schema1:DATE ;
+    rdfs:label "1969"@en .
+
+wd:1971 a schema1:DATE ;
+    rdfs:label "1971"@en .
+
+wd:1972 a schema1:DATE ;
+    rdfs:label "1972"@en .
+
+wd:1_B_ a schema1:CARDINAL ;
+    rdfs:label "1.B."@en .
+
+wd:1_E_1 a schema1:CARDINAL,
+        schema1:DATE ;
+    rdfs:label "1.E.1"@en .
+
+wd:1_E_2 a schema1:DATE ;
+    rdfs:label "1.E.2"@en .
+
+wd:1_E_5 a schema1:CARDINAL ;
+    rdfs:label "1.E.5"@en .
+
+wd:1_E_6 a schema1:CARDINAL ;
+    rdfs:label "1.E.6"@en .
+
+wd:1_E_7 a schema1:CARDINAL,
+        schema1:DATE ;
+    rdfs:label "1.E.7"@en .
+
+wd:1_E_8 a schema1:CARDINAL ;
+    rdfs:label "1.E.8"@en .
+
+wd:1_E_9 a schema1:CARDINAL ;
+    rdfs:label "1.E.9"@en .
+
+wd:1_F_ a schema1:CARDINAL ;
+    rdfs:label "1.F."@en .
+
+wd:1_F_1 a schema1:CARDINAL ;
+    rdfs:label "1.F.1"@en .
+
+wd:1_F_2 a schema1:CARDINAL ;
+    rdfs:label "1.F.2"@en .
+
+wd:1_F_3 a schema1:CARDINAL,
+        schema1:DATE ;
+    rdfs:label "1.F.3"@en .
+
+wd:1_F_4 a schema1:CARDINAL ;
+    rdfs:label "1.F.4"@en .
+
+wd:1_F_6 a schema1:DATE ;
+    rdfs:label "1.F.6"@en .
+
+wd:2001 a schema1:DATE ;
+    rdfs:label "2001"@en .
+
+wd:20_ a schema1:PERCENT ;
+    rdfs:label "20%"@en .
+
+wd:24022 a schema1:MONEY ;
+    rdfs:label "24022"@en .
+
+wd:28-29 a schema1:CARDINAL ;
+    rdfs:label "28-29"@en .
+
+wd:3 a schema1:CARDINAL ;
+    rdfs:label "3"@en .
+
+wd:30_days a schema1:DATE ;
+    rdfs:label "30 days"@en .
+
+wd:34 a schema1:CARDINAL ;
+    rdfs:label "34"@en .
+
+wd:37 a schema1:CARDINAL ;
+    rdfs:label "37"@en .
+
+wd:3_and_4 a schema1:CARDINAL ;
+    rdfs:label "3 and 4"@en .
+
+wd:50 a schema1:CARDINAL ;
+    rdfs:label "50"@en .
+
+wd:54 a schema1:CARDINAL ;
+    rdfs:label "54"@en .
+
+wd:596-1887 a schema1:DATE ;
+    rdfs:label "596-1887"@en .
+
+wd:60 a schema1:CARDINAL ;
+    rdfs:label "60"@en .
+
+wd:60_days a schema1:DATE ;
+    rdfs:label "60 days"@en .
+
+wd:62 a schema1:CARDINAL ;
+    rdfs:label "62"@en .
+
+wd:64 a schema1:CARDINAL ;
+    rdfs:label "64"@en .
+
+wd:64-6221541 a schema1:CARDINAL ;
+    rdfs:label "64-6221541"@en .
+
+wd:69 a schema1:CARDINAL ;
+    rdfs:label "69"@en .
+
+wd:75 a schema1:CARDINAL ;
+    rdfs:label "75"@en .
+
+wd:801 a schema1:CARDINAL ;
+    rdfs:label "801"@en .
+
+wd:809 a schema1:CARDINAL ;
+    rdfs:label "809"@en .
+
+wd:88 a schema1:CARDINAL ;
+    rdfs:label "88"@en .
+
+wd:90_days a schema1:DATE ;
+    rdfs:label "90 days"@en .
+
+wd:A_CHRISTMAS_CAROL a schema1:WORK_OF_ART ;
+    rdfs:label "A CHRISTMAS CAROL"@en .
+
+wd:A_Happy_New_Year a schema1:WORK_OF_ART ;
+    rdfs:label "A Happy New Year"@en .
+
+wd:A_quarter a schema1:DATE ;
+    rdfs:label "A quarter"@en .
+
+wd:A_quarter_past a schema1:DATE ;
+    rdfs:label """A quarter
+past"""@en .
+
+wd:Abels a schema1:GPE ;
+    rdfs:label "Abels"@en .
+
+wd:Abrahams a schema1:GPE ;
+    rdfs:label "Abrahams"@en .
+
+wd:Abundance a schema1:PERSON ;
+    rdfs:label "Abundance"@en .
+
+wd:Ali_Baba a schema1:PERSON ;
+    rdfs:label "Ali Baba"@en .
+
+wd:Archive_Foundation a schema1:ORG ;
+    rdfs:label "Archive Foundation"@en .
+
+wd:Arthur_Rackham_Release a schema1:PERSON ;
+    rdfs:label """Arthur Rackham
+
+Release"""@en .
+
+wd:BREACH_OF_WARRANTY_OR_BREACH_OF_CONTRACT_EXCEPT a schema1:ORG ;
+    rdfs:label "BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT"@en .
+
+wd:Baleful a schema1:PERSON ;
+    rdfs:label "Baleful"@en .
+
+wd:Bedlam a schema1:PERSON ;
+    rdfs:label "Bedlam"@en .
+
+wd:Belinda a schema1:GPE,
+        schema1:NORP ;
+    rdfs:label "Belinda"@en .
+
+wd:Belinda_Cratchit a schema1:ORG ;
+    rdfs:label """Belinda
+Cratchit"""@en .
+
+wd:Bell a schema1:PERSON ;
+    rdfs:label "Bell"@en .
+
+wd:Belle a schema1:GPE ;
+    rdfs:label "Belle"@en .
+
+wd:Bob a schema1:PERSON ;
+    rdfs:label "Bob"@en .
+
+wd:Bob_Cratchit a schema1:PERSON ;
+    rdfs:label "Bob Cratchit"@en .
+
+wd:Bob_Cratchit_s a schema1:PERSON ;
+    rdfs:label "Bob Cratchit's"@en .
+
+wd:Boiled a schema1:PERSON ;
+    rdfs:label "Boiled"@en .
+
+wd:CHRISTMAS_DAY a schema1:DATE ;
+    rdfs:label "CHRISTMAS DAY"@en .
+
+wd:COLOUR a schema1:NORP ;
+    rdfs:label "COLOUR"@en .
+
+wd:Cains a schema1:GPE ;
+    rdfs:label "Cains"@en .
+
+wd:Camden a schema1:GPE ;
+    rdfs:label "Camden"@en .
+
+wd:Caroline a schema1:PERSON ;
+    rdfs:label "Caroline"@en .
+
+wd:Catch a schema1:PERSON ;
+    rdfs:label "Catch"@en .
+
+wd:Change a schema1:PRODUCT ;
+    rdfs:label "Change"@en .
+
+wd:Charles_Dickens a schema1:PERSON ;
+    rdfs:label "Charles Dickens"@en .
+
+wd:Christian a schema1:NORP ;
+    rdfs:label "Christian"@en .
+
+wd:Christmas a schema1:DATE ;
+    rdfs:label "Christmas"@en .
+
+wd:Christmas_Day a schema1:DATE ;
+    rdfs:label "Christmas Day"@en .
+
+wd:Christmas_Eve a schema1:DATE ;
+    rdfs:label """Christmas
+Eve"""@en,
+        "Christmas Eve"@en .
+
+wd:Christmas_Eve_16 a schema1:DATE ;
+    rdfs:label "Christmas Eve                                           16"@en .
+
+wd:Christmas_Past a schema1:DATE ;
+    rdfs:label "Christmas Past"@en .
+
+wd:Christmas_morning a schema1:TIME ;
+    rdfs:label "Christmas morning"@en .
+
+wd:Clear a schema1:PERSON ;
+    rdfs:label "Clear"@en .
+
+wd:Cold a schema1:EVENT ;
+    rdfs:label "Cold"@en .
+
+wd:Cold_Boiled a schema1:WORK_OF_ART ;
+    rdfs:label "Cold Boiled"@en .
+
+wd:Cold_Roast a schema1:EVENT ;
+    rdfs:label """Cold
+Roast"""@en .
+
+wd:CompetencyQuestion_1 a schema1:Question ;
+    rdfs:label "What is the gpe of the United States?"@en .
+
+wd:CompetencyQuestion_2 a schema1:Question ;
+    rdfs:label "What is the org of the Project Gutenberg License?"@en .
+
+wd:CompetencyQuestion_3 a schema1:Question ;
+    rdfs:label "What is the gpe of the United States?"@en .
+
+wd:Contents a schema1:ORG ;
+    rdfs:label "Contents"@en .
+
+wd:Cornhill a schema1:GPE ;
+    rdfs:label "Cornhill"@en .
+
+wd:Cratchit a schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Cratchit"@en .
+
+wd:Cratchits a schema1:NORP,
+        schema1:ORG ;
+    rdfs:label "Cratchits"@en .
+
+wd:DIRECT a schema1:ORG ;
+    rdfs:label "DIRECT"@en .
+
+wd:Damascus a schema1:GPE ;
+    rdfs:label "Damascus"@en .
+
+wd:Day a schema1:DATE ;
+    rdfs:label "Day"@en .
+
+wd:Death a schema1:PERSON ;
+    rdfs:label "Death"@en .
+
+wd:December a schema1:DATE ;
+    rdfs:label "December"@en .
+
+wd:December_1843 a schema1:DATE ;
+    rdfs:label "December, 1843"@en .
+
+wd:December_24_2007 a schema1:DATE ;
+    rdfs:label "December 24, 2007"@en .
+
+wd:Dick a schema1:PERSON ;
+    rdfs:label "Dick"@en .
+
+wd:Dick_Chirrup a schema1:PERSON ;
+    rdfs:label "Dick! Chirrup"@en .
+
+wd:Dick_Wilkins a schema1:PERSON ;
+    rdfs:label "Dick Wilkins"@en .
+
+wd:Dilber a schema1:PERSON ;
+    rdfs:label "Dilber"@en .
+
+wd:Dine a schema1:PERSON ;
+    rdfs:label "Dine"@en .
+
+wd:Ding a schema1:PERSON ;
+    rdfs:label "Ding"@en .
+
+wd:Doom a schema1:PERSON ;
+    rdfs:label "Doom"@en .
+
+wd:Dutch a schema1:NORP ;
+    rdfs:label "Dutch"@en .
+
+wd:EIN a schema1:ORG ;
+    rdfs:label "EIN"@en .
+
+wd:EXPRESS a schema1:ORG ;
+    rdfs:label "EXPRESS"@en .
+
+wd:Ebenezer a schema1:PERSON ;
+    rdfs:label "Ebenezer"@en .
+
+wd:Ebenezer_Scrooge a schema1:PERSON ;
+    rdfs:label "Ebenezer Scrooge"@en .
+
+wd:English a schema1:LANGUAGE ;
+    rdfs:label "English"@en .
+
+wd:Evil_Spirit_s a schema1:PERSON ;
+    rdfs:label "Evil Spirit's"@en .
+
+wd:FIRST a schema1:ORDINAL ;
+    rdfs:label "FIRST"@en .
+
+wd:FIVE a schema1:CARDINAL ;
+    rdfs:label "FIVE"@en .
+
+wd:FOUR a schema1:CARDINAL ;
+    rdfs:label "FOUR"@en .
+
+wd:Fan a schema1:ORG ;
+    rdfs:label "Fan"@en .
+
+wd:Fezziwig a schema1:LOC,
+        schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Fezziwig"@en .
+
+wd:Fezziwigs a schema1:PERSON ;
+    rdfs:label "Fezziwigs"@en .
+
+wd:First a schema1:ORDINAL ;
+    rdfs:label "First"@en .
+
+wd:Five a schema1:CARDINAL ;
+    rdfs:label "Five"@en .
+
+wd:Five_minutes a schema1:TIME ;
+    rdfs:label """Five
+minutes"""@en .
+
+wd:Foundation a schema1:ORG ;
+    rdfs:label "Foundation"@en .
+
+wd:Founder a schema1:PRODUCT ;
+    rdfs:label "Founder"@en .
+
+wd:Four a schema1:CARDINAL ;
+    rdfs:label "Four"@en .
+
+wd:Fowls a schema1:PERSON ;
+    rdfs:label "Fowls"@en .
+
+wd:Fred a schema1:PERSON ;
+    rdfs:label "Fred"@en .
+
+wd:French a schema1:NORP ;
+    rdfs:label "French"@en .
+
+wd:Friday a schema1:DATE ;
+    rdfs:label "Friday"@en .
+
+wd:Friend a schema1:ORG ;
+    rdfs:label "Friend"@en .
+
+wd:Future a schema1:ORG ;
+    rdfs:label "Future"@en .
+
+wd:GREAT_BRITAIN a schema1:GPE ;
+    rdfs:label "GREAT BRITAIN"@en .
+
+wd:General_Information a schema1:ORG ;
+    rdfs:label "General Information"@en .
+
+wd:Genii a schema1:PERSON ;
+    rdfs:label "Genii"@en .
+
+wd:Ghost a schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Ghost"@en .
+
+wd:Giant a schema1:ORG ;
+    rdfs:label "Giant"@en .
+
+wd:Great_Britain a schema1:GPE ;
+    rdfs:label "Great Britain"@en .
+
+wd:Grocers a schema1:ORG ;
+    rdfs:label "Grocers"@en .
+
+wd:Groom a schema1:PERSON ;
+    rdfs:label "Groom"@en .
+
+wd:Gutenberg a schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Gutenberg"@en .
+
+wd:Gutenberg_Literary_Archive_Foundation a schema1:ORG ;
+    rdfs:label "Gutenberg Literary Archive Foundation"@en .
+
+wd:Halloo a schema1:PERSON ;
+    rdfs:label "Halloo"@en .
+
+wd:Hamlet a schema1:WORK_OF_ART ;
+    rdfs:label "Hamlet"@en .
+
+wd:Hilli-ho a schema1:FAC,
+        schema1:PERSON ;
+    rdfs:label "Hilli-ho"@en .
+
+wd:Hope a schema1:PERSON ;
+    rdfs:label "Hope"@en .
+
+wd:Humbug a schema1:ORG ;
+    rdfs:label "Humbug"@en .
+
+wd:Hurrah a schema1:PERSON ;
+    rdfs:label "Hurrah"@en .
+
+wd:IRS a schema1:ORG ;
+    rdfs:label "IRS"@en .
+
+wd:Idol a schema1:PERSON ;
+    rdfs:label "Idol"@en .
+
+wd:Ignorance a schema1:ORG ;
+    rdfs:label "Ignorance"@en .
+
+wd:J_B_LIPPINCOTT a schema1:PERSON ;
+    rdfs:label "J. B. LIPPINCOTT"@en .
+
+wd:J_B_Lippincott_Company a schema1:ORG ;
+    rdfs:label "J. B. Lippincott Company"@en .
+
+wd:Jack_Robinson a schema1:PERSON ;
+    rdfs:label """Jack
+Robinson"""@en .
+
+wd:Jacob a schema1:GPE,
+        schema1:PERSON ;
+    rdfs:label "Jacob"@en .
+
+wd:Jacob_Marley a schema1:PERSON ;
+    rdfs:label """Jacob
+Marley"""@en,
+        "Jacob Marley"@en .
+
+wd:Jacob_Marley_s a schema1:PERSON ;
+    rdfs:label "Jacob Marley's"@en .
+
+wd:Janet_Blenkinship a schema1:PERSON ;
+    rdfs:label "Janet Blenkinship"@en .
+
+wd:Joe a schema1:PERSON ;
+    rdfs:label "Joe"@en .
+
+wd:Joe_Miller a schema1:PERSON ;
+    rdfs:label "Joe Miller"@en .
+
+wd:LIABILITY a schema1:ORG ;
+    rdfs:label "LIABILITY"@en .
+
+wd:LIMITED_WARRANTY a schema1:ORG ;
+    rdfs:label "LIMITED WARRANTY"@en .
+
+wd:Laden a schema1:PERSON ;
+    rdfs:label "Laden"@en .
+
+wd:Laocoon a schema1:ORG ;
+    rdfs:label "Laocoon"@en .
+
+wd:Last_night a schema1:TIME ;
+    rdfs:label "Last night"@en .
+
+wd:License a schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "License"@en .
+
+wd:List_of_Coloured_Illustrations a schema1:ORG ;
+    rdfs:label "List of Coloured Illustrations"@en .
+
+wd:Literary_Archive_Foundation a schema1:ORG ;
+    rdfs:label "Literary Archive Foundation"@en .
+
+wd:London a schema1:GPE ;
+    rdfs:label "London"@en .
+
+wd:MARLEY a schema1:PERSON ;
+    rdfs:label "MARLEY"@en .
+
+wd:Mansion_House a schema1:FAC ;
+    rdfs:label "Mansion House"@en .
+
+wd:Marley a schema1:GPE,
+        schema1:PERSON ;
+    rdfs:label "Marley"@en .
+
+wd:Martha a schema1:PERSON ;
+    rdfs:label "Martha"@en .
+
+wd:Martha_Cratchit a schema1:PERSON ;
+    rdfs:label "Martha Cratchit"@en .
+
+wd:May a schema1:DATE ;
+    rdfs:label "May"@en .
+
+wd:Merry a schema1:PERSON ;
+    rdfs:label "Merry"@en .
+
+wd:Merry_Christmas a schema1:WORK_OF_ART ;
+    rdfs:label "Merry Christmas"@en .
+
+wd:Michael_S_Hart a schema1:PERSON ;
+    rdfs:label "Michael S. Hart"@en .
+
+wd:Miss a schema1:CARDINAL ;
+    rdfs:label "Miss"@en .
+
+wd:Mississippi a schema1:GPE ;
+    rdfs:label "Mississippi"@en .
+
+wd:NEW_YORK a schema1:GPE ;
+    rdfs:label "NEW YORK"@en .
+
+wd:Nay a schema1:PRODUCT ;
+    rdfs:label "Nay"@en .
+
+wd:Nephew a schema1:PERSON ;
+    rdfs:label "Nephew"@en .
+
+wd:New_Year a schema1:EVENT ;
+    rdfs:label "New Year"@en .
+
+wd:New_York a schema1:GPE ;
+    rdfs:label "New York"@en .
+
+wd:Norfolk_Biffins a schema1:PERSON ;
+    rdfs:label "Norfolk Biffins"@en .
+
+wd:North_1500_West a schema1:LOC ;
+    rdfs:label "North 1500 West"@en .
+
+wd:ONE a schema1:CARDINAL ;
+    rdfs:label "ONE"@en .
+
+wd:Old_Marley_s a schema1:ORG ;
+    rdfs:label "Old Marley's"@en .
+
+wd:One a schema1:CARDINAL ;
+    rdfs:label "One"@en .
+
+wd:One_half-hour a schema1:TIME ;
+    rdfs:label "One half-hour"@en .
+
+wd:Orson a schema1:PERSON ;
+    rdfs:label "Orson"@en .
+
+wd:PHILADELPHIA a schema1:GPE ;
+    rdfs:label "PHILADELPHIA"@en .
+
+wd:PLEASANT a schema1:ORG ;
+    rdfs:label "PLEASANT"@en .
+
+wd:POSSIBILITY a schema1:ORG ;
+    rdfs:label "POSSIBILITY"@en .
+
+wd:PUNITIVE a schema1:ORG ;
+    rdfs:label "PUNITIVE"@en .
+
+wd:Parks a schema1:PERSON ;
+    rdfs:label "Parks"@en .
+
+wd:Parliament a schema1:ORG ;
+    rdfs:label "Parliament"@en .
+
+wd:Parrot a schema1:PERSON ;
+    rdfs:label "Parrot"@en .
+
+wd:Peter a schema1:PERSON ;
+    rdfs:label "Peter"@en .
+
+wd:Peter_Cratchit a schema1:PERSON ;
+    rdfs:label "Peter Cratchit"@en .
+
+wd:Phantom a schema1:GPE,
+        schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Phantom"@en .
+
+wd:Pharaoh a schema1:GPE ;
+    rdfs:label "Pharaoh"@en .
+
+wd:Philadelphia a schema1:GPE ;
+    rdfs:label "Philadelphia"@en .
+
+wd:Plain_Vanilla_ASCII a schema1:WORK_OF_ART ;
+    rdfs:label """Plain
+Vanilla ASCII"""@en .
+
+wd:Plenty a schema1:ORG ;
+    rdfs:label "Plenty"@en .
+
+wd:Pooh a schema1:PERSON ;
+    rdfs:label "Pooh"@en .
+
+wd:Porch a schema1:LOC ;
+    rdfs:label "Porch"@en .
+
+wd:Project a schema1:ORG ;
+    rdfs:label "Project"@en .
+
+wd:Project_Gutenberg a schema1:ORG,
+        schema1:PERSON,
+        schema1:PRODUCT,
+        schema1:WORK_OF_ART ;
+    rdfs:label """Project
+Gutenberg"""@en,
+        "Project Gutenberg"@en .
+
+wd:Prophet a schema1:PERSON ;
+    rdfs:label "Prophet"@en .
+
+wd:Roast a schema1:PERSON ;
+    rdfs:label "Roast"@en .
+
+wd:Robert a schema1:PERSON ;
+    rdfs:label "Robert"@en .
+
+wd:Robin_Crusoe a schema1:PERSON ;
+    rdfs:label """Robin
+Crusoe"""@en,
+        "Robin Crusoe"@en .
+
+wd:Roger_de_Coverley a schema1:PERSON ;
+    rdfs:label "Roger de Coverley"@en .
+
+wd:Salt_Lake_City a schema1:GPE ;
+    rdfs:label "Salt Lake City"@en .
+
+wd:Saturdays a schema1:DATE ;
+    rdfs:label "Saturdays"@en .
+
+wd:Scratch a schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Scratch"@en .
+
+wd:Scriptures a schema1:PERSON ;
+    rdfs:label "Scriptures"@en .
+
+wd:Scro a schema1:PERSON ;
+    rdfs:label "Scro"@en .
+
+wd:Scrooge a schema1:EVENT,
+        schema1:GPE,
+        schema1:PERSON,
+        schema1:TIME,
+        schema1:WORK_OF_ART ;
+    rdfs:label "Scrooge"@en .
+
+wd:Scrooge_Scrooge a schema1:PERSON ;
+    rdfs:label "Scrooge Scrooge"@en .
+
+wd:Section_1 a schema1:LAW ;
+    rdfs:label "Section 1"@en .
+
+wd:Section_2 a schema1:LAW ;
+    rdfs:label "Section 2"@en .
+
+wd:Section_3 a schema1:LAW ;
+    rdfs:label "Section 3"@en .
+
+wd:Section_4 a schema1:LAW ;
+    rdfs:label "Section 4"@en .
+
+wd:Section_5 a schema1:LAW ;
+    rdfs:label "Section 5"@en .
+
+wd:Servant a schema1:ORG ;
+    rdfs:label "Servant"@en .
+
+wd:Seven_years a schema1:DATE ;
+    rdfs:label "Seven years"@en .
+
+wd:Shadow a schema1:ORG ;
+    rdfs:label "Shadow"@en .
+
+wd:Sheba a schema1:GPE ;
+    rdfs:label "Sheba"@en .
+
+wd:Spanish a schema1:NORP ;
+    rdfs:label "Spanish"@en .
+
+wd:Spectre a schema1:PERSON ;
+    rdfs:label "Spectre"@en .
+
+wd:Spirit a schema1:ORG ;
+    rdfs:label "Spirit"@en .
+
+wd:Spirits a schema1:ORG,
+        schema1:PRODUCT ;
+    rdfs:label "Spirits"@en .
+
+wd:St_Dunstan a schema1:LOC ;
+    rdfs:label "St. Dunstan"@en .
+
+wd:St_Paul_s_Churchyard a schema1:GPE ;
+    rdfs:label "St. Paul's Churchyard"@en .
+
+wd:Star a schema1:PERSON ;
+    rdfs:label "Star"@en .
+
+wd:Stave_Five_147 a schema1:ORG ;
+    rdfs:label "Stave Five                                            147"@en .
+
+wd:Sultan a schema1:LOC ;
+    rdfs:label "Sultan"@en .
+
+wd:Sunday a schema1:DATE ;
+    rdfs:label "Sunday"@en .
+
+wd:Suzanne_Shell a schema1:PERSON ;
+    rdfs:label "Suzanne Shell"@en .
+
+wd:THREE a schema1:CARDINAL,
+        schema1:WORK_OF_ART ;
+    rdfs:label "THREE"@en .
+
+wd:TIM_S a schema1:PERSON ;
+    rdfs:label "TIM'S"@en .
+
+wd:TWO a schema1:CARDINAL ;
+    rdfs:label "TWO"@en .
+
+wd:Thankee a schema1:PERSON ;
+    rdfs:label "Thankee"@en .
+
+wd:The_Founder_of_the_Feast a schema1:WORK_OF_ART ;
+    rdfs:label "The Founder of the Feast"@en .
+
+wd:The_Project_Gutenberg_Literary_Archive_Foundation a schema1:ORG ;
+    rdfs:label "The Project Gutenberg Literary Archive Foundation"@en .
+
+wd:The_quarter a schema1:DATE ;
+    rdfs:label "The quarter"@en .
+
+wd:Three a schema1:CARDINAL ;
+    rdfs:label "Three"@en .
+
+wd:Three_days a schema1:DATE ;
+    rdfs:label "Three days"@en .
+
+wd:Tim a schema1:PERSON ;
+    rdfs:label "Tim"@en .
+
+wd:Tim_Cratchit a schema1:PERSON ;
+    rdfs:label "Tim Cratchit"@en .
+
+wd:Time a schema1:ORG ;
+    rdfs:label "Time"@en .
+
+wd:Tiny a schema1:ORG ;
+    rdfs:label "Tiny"@en .
+
+wd:Tiny_Tim a schema1:PERSON ;
+    rdfs:label """Tiny
+Tim"""@en,
+        "Tiny Tim"@en .
+
+wd:Topper a schema1:ORG,
+        schema1:PERSON ;
+    rdfs:label "Topper"@en .
+
+wd:Total-Abstinence_Principle a schema1:ORG ;
+    rdfs:label "Total-Abstinence Principle"@en .
+
+wd:Treadmill a schema1:ORG ;
+    rdfs:label "Treadmill"@en .
+
+wd:Truth a schema1:GPE ;
+    rdfs:label "Truth"@en .
+
+wd:Twelfth-Night a schema1:ORG ;
+    rdfs:label "Twelfth-Night"@en .
+
+wd:Twelve a schema1:CARDINAL,
+        schema1:PRODUCT ;
+    rdfs:label "Twelve"@en .
+
+wd:Two a schema1:CARDINAL ;
+    rdfs:label "Two"@en .
+
+wd:U_S_ a schema1:GPE ;
+    rdfs:label "U.S."@en .
+
+wd:Uncle a schema1:PERSON ;
+    rdfs:label "Uncle"@en .
+
+wd:Uncle_Scrooge a schema1:WORK_OF_ART ;
+    rdfs:label "Uncle Scrooge"@en .
+
+wd:Union a schema1:ORG ;
+    rdfs:label "Union"@en .
+
+wd:United_States a schema1:GPE ;
+    rdfs:label "United States"@en .
+
+wd:Us a schema1:GPE ;
+    rdfs:label "Us"@en .
+
+wd:Valentine a schema1:PERSON ;
+    rdfs:label "Valentine"@en .
+
+wd:Want a schema1:PERSON ;
+    rdfs:label "Want"@en .
+
+wd:Ward a schema1:ORG ;
+    rdfs:label "Ward"@en .
+
+wd:Whitechapel a schema1:PERSON ;
+    rdfs:label "Whitechapel"@en .
+
+wd:Yo_ho a schema1:PERSON ;
+    rdfs:label "Yo ho"@en .
+
+wd:_1_to_5_000 a schema1:MONEY ;
+    rdfs:label "$1 to $5,000"@en .
+
+wd:_Bring a schema1:WORK_OF_ART ;
+    rdfs:label "'Bring"@en .
+
+wd:_Christmas a schema1:DATE ;
+    rdfs:label "'Christmas"@en .
+
+wd:_Christmas_Day a schema1:DATE ;
+    rdfs:label "'Christmas Day"@en .
+
+wd:_Yes_ a schema1:WORK_OF_ART ;
+    rdfs:label "'Yes'"@en .
+
+wd:a_United_States a schema1:GPE ;
+    rdfs:label "a United States"@en .
+
+wd:a_dozen a schema1:CARDINAL ;
+    rdfs:label "a dozen"@en .
+
+wd:a_long_night a schema1:TIME ;
+    rdfs:label "a long night"@en .
+
+wd:a_minute a schema1:TIME ;
+    rdfs:label "a minute"@en .
+
+wd:a_thousand a schema1:CARDINAL ;
+    rdfs:label "a thousand"@en .
+
+wd:afternoon a schema1:TIME ;
+    rdfs:label "afternoon"@en .
+
+wd:all_day a schema1:DATE ;
+    rdfs:label "all day"@en .
+
+wd:an_hour a schema1:TIME ;
+    rdfs:label """an
+hour"""@en .
+
+wd:an_t a schema1:ORDINAL ;
+    rdfs:label "an't"@en .
+
+wd:another_night a schema1:TIME ;
+    rdfs:label "another night"@en .
+
+wd:another_penny a schema1:MONEY ;
+    rdfs:label "another penny"@en .
+
+wd:bell a schema1:PERSON ;
+    rdfs:label "bell"@en .
+
+wd:bright_day a schema1:DATE ;
+    rdfs:label "bright day"@en .
+
+wd:calico_an_t a schema1:PERSON ;
+    rdfs:label "calico an't"@en .
+
+wd:cold a schema1:GPE ;
+    rdfs:label "cold"@en .
+
+wd:day a schema1:DATE ;
+    rdfs:label "day"@en .
+
+wd:days a schema1:DATE ;
+    rdfs:label "days"@en .
+
+wd:dozen a schema1:CARDINAL ;
+    rdfs:label "dozen"@en .
+
+wd:eBooks a schema1:ORG ;
+    rdfs:label "eBooks"@en .
+
+wd:eight a schema1:CARDINAL ;
+    rdfs:label "eight"@en .
+
+wd:eighteen_minutes_and_a_half a schema1:TIME ;
+    rdfs:label "eighteen minutes and a half"@en .
+
+wd:eleven a schema1:CARDINAL ;
+    rdfs:label "eleven"@en .
+
+wd:evening a schema1:TIME ;
+    rdfs:label "evening"@en .
+
+wd:every_seventh_day a schema1:DATE ;
+    rdfs:label "every seventh day"@en .
+
+wd:every_year a schema1:DATE ;
+    rdfs:label "every year"@en .
+
+wd:fifteen a schema1:CARDINAL ;
+    rdfs:label "fifteen"@en .
+
+wd:fifteen_shillings a schema1:MONEY ;
+    rdfs:label "fifteen shillings"@en .
+
+wd:fifty a schema1:CARDINAL ;
+    rdfs:label "fifty"@en .
+
+wd:fifty_pounds a schema1:MONEY ;
+    rdfs:label "fifty pounds"@en .
+
+wd:first a schema1:ORDINAL ;
+    rdfs:label "first"@en .
+
+wd:five a schema1:CARDINAL ;
+    rdfs:label "five"@en .
+
+wd:five_minutes a schema1:TIME ;
+    rdfs:label "five minutes"@en .
+
+wd:forty_years a schema1:DATE ;
+    rdfs:label "forty years"@en .
+
+wd:four a schema1:CARDINAL ;
+    rdfs:label "four"@en .
+
+wd:full_five_minutes a schema1:TIME ;
+    rdfs:label "full five minutes"@en .
+
+wd:geese a schema1:NORP ;
+    rdfs:label "geese"@en .
+
+wd:gruel a schema1:PERSON ;
+    rdfs:label "gruel"@en .
+
+wd:half a schema1:CARDINAL ;
+    rdfs:label "half"@en .
+
+wd:half_a_minute a schema1:TIME ;
+    rdfs:label "half a minute"@en .
+
+wd:half_an_hour a schema1:TIME ;
+    rdfs:label "half an hour"@en .
+
+wd:half_of_half a schema1:DATE ;
+    rdfs:label "half of half"@en .
+
+wd:hour a schema1:TIME ;
+    rdfs:label "hour"@en .
+
+wd:hundreds a schema1:CARDINAL ;
+    rdfs:label "hundreds"@en .
+
+wd:hundreds_of_thousands a schema1:CARDINAL ;
+    rdfs:label "hundreds of thousands"@en .
+
+wd:kith a schema1:PERSON ;
+    rdfs:label "kith"@en .
+
+wd:last_night a schema1:TIME ;
+    rdfs:label "last night"@en .
+
+wd:late_last_Christmas_Day a schema1:DATE ;
+    rdfs:label "late last Christmas Day"@en .
+
+wd:later_years a schema1:DATE ;
+    rdfs:label "later years"@en .
+
+wd:less_than_five_minutes a schema1:TIME ;
+    rdfs:label "less than five minutes"@en .
+
+wd:live_than_millions a schema1:CARDINAL ;
+    rdfs:label "live than millions"@en .
+
+wd:many_hours a schema1:TIME ;
+    rdfs:label "many hours"@en .
+
+wd:many_years a schema1:DATE ;
+    rdfs:label "many years"@en .
+
+wd:merry_gentleman a schema1:PERSON ;
+    rdfs:label "merry gentleman"@en .
+
+wd:midnight a schema1:TIME ;
+    rdfs:label "midnight"@en .
+
+wd:months a schema1:DATE ;
+    rdfs:label "months"@en .
+
+wd:morning a schema1:TIME ;
+    rdfs:label "morning"@en .
+
+wd:morrow a schema1:DATE ;
+    rdfs:label "morrow"@en .
+
+wd:my_days a schema1:DATE ;
+    rdfs:label "my days"@en .
+
+wd:next_morning a schema1:TIME ;
+    rdfs:label "next morning"@en .
+
+wd:niece a schema1:GPE ;
+    rdfs:label "niece"@en .
+
+wd:night a schema1:TIME ;
+    rdfs:label "night"@en .
+
+wd:nine a schema1:CARDINAL ;
+    rdfs:label "nine"@en .
+
+wd:no_days a schema1:DATE ;
+    rdfs:label "no days"@en .
+
+wd:noon a schema1:TIME ;
+    rdfs:label "noon"@en .
+
+wd:one a schema1:CARDINAL ;
+    rdfs:label "one"@en .
+
+wd:one_dear_night a schema1:TIME ;
+    rdfs:label "one dear night"@en .
+
+wd:one_night a schema1:TIME ;
+    rdfs:label "one night"@en .
+
+wd:only_a_night a schema1:TIME ;
+    rdfs:label "only a night"@en .
+
+wd:only_one a schema1:CARDINAL ;
+    rdfs:label "only one"@en .
+
+wd:past_two a schema1:DATE ;
+    rdfs:label "past two"@en .
+
+wd:second a schema1:ORDINAL ;
+    rdfs:label "second"@en .
+
+wd:seven a schema1:CARDINAL ;
+    rdfs:label "seven"@en .
+
+wd:seven_Christmas_Eves_ago a schema1:DATE ;
+    rdfs:label "seven Christmas Eves ago"@en .
+
+wd:seven_to_eight a schema1:CARDINAL ;
+    rdfs:label "seven to eight"@en .
+
+wd:seven_years a schema1:DATE ;
+    rdfs:label "seven years"@en .
+
+wd:seven_years_ago a schema1:DATE ;
+    rdfs:label "seven years ago"@en .
+
+wd:seventy_years_of_age a schema1:DATE ;
+    rdfs:label "seventy years of age"@en .
+
+wd:six a schema1:CARDINAL ;
+    rdfs:label "six"@en .
+
+wd:six_to_seven a schema1:CARDINAL ;
+    rdfs:label "six to seven"@en .
+
+wd:so_many_years a schema1:DATE ;
+    rdfs:label "so many years"@en .
+
+wd:some_days a schema1:DATE ;
+    rdfs:label "some days"@en .
+
+wd:some_fifty a schema1:CARDINAL ;
+    rdfs:label "some fifty"@en .
+
+wd:spring a schema1:DATE ;
+    rdfs:label "spring"@en .
+
+wd:summer a schema1:DATE ;
+    rdfs:label "summer"@en .
+
+wd:ten a schema1:CARDINAL ;
+    rdfs:label "ten"@en .
+
+wd:that_day a schema1:DATE ;
+    rdfs:label "that day"@en .
+
+wd:the_Christmas_holidays a schema1:DATE ;
+    rdfs:label "the Christmas holidays"@en .
+
+wd:the_City_of_London a schema1:GPE ;
+    rdfs:label "the City of London"@en .
+
+wd:the_Genius_of_the_Weather a schema1:WORK_OF_ART ;
+    rdfs:label "the Genius of the Weather"@en .
+
+wd:the_Internal_Revenue_Service a schema1:ORG ;
+    rdfs:label """the Internal
+Revenue Service"""@en .
+
+wd:the_Invisible_World a schema1:LAW ;
+    rdfs:label "the Invisible World"@en .
+
+wd:the_Poor_Law a schema1:WORK_OF_ART ;
+    rdfs:label "the Poor Law"@en .
+
+wd:the_Project_Gutenberg a schema1:ORG ;
+    rdfs:label """the Project
+Gutenberg"""@en,
+        "the Project Gutenberg"@en .
+
+wd:the_Project_Gutenberg_License a schema1:ORG ;
+    rdfs:label "the Project Gutenberg License"@en .
+
+wd:the_Project_Gutenberg_Literary_Archive_Foundation a schema1:ORG ;
+    rdfs:label """the Project
+Gutenberg Literary Archive Foundation"""@en,
+        "the Project Gutenberg Literary Archive Foundation"@en .
+
+wd:the_Seventh_Day a schema1:DATE ;
+    rdfs:label "the Seventh Day"@en .
+
+wd:the_United_States a schema1:GPE ;
+    rdfs:label """the United
+States"""@en,
+        "the United States"@en .
+
+wd:the_Unseen_Eyes a schema1:ORG ;
+    rdfs:label "the Unseen Eyes"@en .
+
+wd:the_afternoon a schema1:TIME ;
+    rdfs:label "the afternoon"@en .
+
+wd:the_awful_sea a schema1:LOC ;
+    rdfs:label "the awful sea"@en .
+
+wd:the_clearest_summer a schema1:DATE ;
+    rdfs:label "the clearest summer"@en .
+
+wd:the_day a schema1:DATE ;
+    rdfs:label "the day"@en .
+
+wd:the_day_before a schema1:DATE ;
+    rdfs:label "the day before"@en .
+
+wd:the_four_quarters a schema1:DATE ;
+    rdfs:label "the four quarters"@en .
+
+wd:the_hour a schema1:TIME ;
+    rdfs:label """the
+hour"""@en,
+        "the hour"@en .
+
+wd:the_hour_of a schema1:TIME ;
+    rdfs:label "the hour of"@en .
+
+wd:the_hour_of_night a schema1:TIME ;
+    rdfs:label """the
+hour of night"""@en .
+
+wd:the_hours_and_quarters a schema1:TIME ;
+    rdfs:label """the hours and
+quarters"""@en .
+
+wd:the_next_night a schema1:TIME ;
+    rdfs:label "the next night"@en .
+
+wd:the_night a schema1:TIME ;
+    rdfs:label "the night"@en .
+
+wd:the_previous_Monday a schema1:DATE ;
+    rdfs:label "the previous Monday"@en .
+
+wd:the_rolling_year a schema1:DATE ;
+    rdfs:label "the rolling year"@en .
+
+wd:the_same_hour a schema1:TIME ;
+    rdfs:label "the same hour"@en .
+
+wd:the_season a schema1:DATE ;
+    rdfs:label "the season"@en .
+
+wd:the_spring a schema1:DATE ;
+    rdfs:label "the spring"@en .
+
+wd:the_very_day a schema1:DATE ;
+    rdfs:label "the very day"@en .
+
+wd:the_whole_day a schema1:DATE ;
+    rdfs:label "the whole day"@en .
+
+wd:the_whole_quarter a schema1:DATE ;
+    rdfs:label """the whole
+quarter"""@en .
+
+wd:the_wild_year_through a schema1:DATE ;
+    rdfs:label "the wild year through"@en .
+
+wd:the_year a schema1:DATE ;
+    rdfs:label "the year"@en .
+
+wd:these_later_years a schema1:DATE ;
+    rdfs:label "these later years"@en .
+
+wd:these_seven_years a schema1:DATE ;
+    rdfs:label "these seven years"@en .
+
+wd:third a schema1:ORDINAL ;
+    rdfs:label "third"@en .
+
+wd:this_afternoon a schema1:TIME ;
+    rdfs:label "this afternoon"@en .
+
+wd:this_day a schema1:DATE ;
+    rdfs:label "this day"@en .
+
+wd:this_morning a schema1:TIME ;
+    rdfs:label "this morning"@en .
+
+wd:this_very_afternoon a schema1:TIME ;
+    rdfs:label "this very afternoon"@en .
+
+wd:this_very_night a schema1:TIME ;
+    rdfs:label "this very night"@en .
+
+wd:thou a schema1:GPE ;
+    rdfs:label "thou"@en .
+
+wd:thousands a schema1:CARDINAL ;
+    rdfs:label "thousands"@en .
+
+wd:three a schema1:CARDINAL ;
+    rdfs:label "three"@en .
+
+wd:three-quarters a schema1:CARDINAL ;
+    rdfs:label "three-quarters"@en .
+
+wd:three-quarters_past_eleven a schema1:DATE ;
+    rdfs:label "three-quarters past eleven"@en .
+
+wd:three_feet a schema1:QUANTITY ;
+    rdfs:label "three feet"@en .
+
+wd:transcription a schema1:CARDINAL ;
+    rdfs:label "transcription"@en .
+
+wd:twelfth a schema1:ORDINAL ;
+    rdfs:label "twelfth"@en .
+
+wd:twelve a schema1:CARDINAL,
+        schema1:DATE ;
+    rdfs:label "twelve"@en .
+
+wd:twenty a schema1:CARDINAL ;
+    rdfs:label "twenty"@en .
+
+wd:twenty-fifth a schema1:CARDINAL ;
+    rdfs:label "twenty-fifth"@en .
+
+wd:two a schema1:CARDINAL ;
+    rdfs:label "two"@en .
+
+wd:two_inches a schema1:QUANTITY ;
+    rdfs:label "two inches"@en .
+
+wd:two_minutes a schema1:TIME ;
+    rdfs:label "two minutes"@en .
+
+wd:week a schema1:DATE ;
+    rdfs:label "week"@en .
+
+wd:weekly a schema1:DATE ;
+    rdfs:label "weekly"@en .
+
+wd:winter a schema1:DATE ;
+    rdfs:label "winter"@en .
+
+wd:winter_day a schema1:DATE ;
+    rdfs:label "winter day"@en .
+
+wd:year a schema1:DATE ;
+    rdfs:label "year"@en .
+
+wd:years a schema1:DATE ;
+    rdfs:label "years"@en .
+
+wd:years_ago a schema1:DATE ;
+    rdfs:label "years ago"@en .
+
+wd:yesterday a schema1:DATE ;
+    rdfs:label "yesterday"@en .
+

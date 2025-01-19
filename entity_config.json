@@ -1,0 +1,12 @@
+{
+    "research_area": {
+        "description": "The primary field of research or study",
+        "domain": "Researcher",
+        "range": "Academic Field"
+    },
+    "academic_institution": {
+        "description": "The primary academic institution associated with an individual",
+        "domain": "Researcher", 
+        "range": "Institution"
+    }
+}
