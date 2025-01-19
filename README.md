@@ -6,7 +6,7 @@ This project implements a Knowledge Graph Generation system that can extract sem
 
 ## Features
 
-- Competency Question Generation
+- Competency Question Generation (https://arxiv.org/pdf/2412.20942)
 - Relation Extraction
 - Ontology Matching
 - Knowledge Graph Construction
