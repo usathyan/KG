@@ -156,3 +156,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 *[Disable all components in CNN/CPU pipeline except NER for a more performance.](https://spacy.io/models/en)https://spacy.io/models/en
 * [For a list of NER entities to extract - click here.](https://towardsdatascience.com/explorations-in-named-entity-recognition-and-was-eleanor-roosevelt-right-671271117218)
 * The only question i ask in CQ is "What is the {entity_type} of {entity}?" - Feel free to update the program files for more variations specific to your domain.
+* [This link gives you a 3rd party nlp model to use for extracting biological and clinical entities from documents (https://allenai.github.io/scispacy/)
